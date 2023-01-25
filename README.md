@@ -16,3 +16,6 @@ Aqui estão alguns programas que fiz para praticar Python:
  
 -EquaçãoSegundoGrauPython.py
   - Resolve equações do segundo grau
+
+-FinalShotMapFIFAWorldCup2022.ipynb
+  - É um gráfico de chutes da final da Copa do Mundo de 2022 entre Argentina e França
