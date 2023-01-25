@@ -2,17 +2,17 @@
 
 Aqui estão alguns programas que fiz para praticar Python:
 
-AnáliseDadosBrasileirão2021.ipynb 
+-AnáliseDadosBrasileirão2021.ipynb 
   - É ligado ao meu TCC na USP em que eu analisei o efeito da idade relativa no Brasileirão 2021
   
-AutomaçãoMovimentoAcademia.ipynb 
+-AutomaçãoMovimentoAcademia.ipynb 
   - Programa que consulta se a academiia está cheia ou não
   
-CalculadoraPython.py
+-CalculadoraPython.py
   - Faz operções de matemática básica
   
-EnvioRelatorio.ipynb
+-EnvioRelatorio.ipynb
   - Abre uma planilha excel, soma os produtos vendidos e o faturamento, presentes na planilha. E envia envia estas informações para um email.
  
-EquaçãoSegundoGrauPython.py
+-EquaçãoSegundoGrauPython.py
   - Resolve equações do segundo grau
