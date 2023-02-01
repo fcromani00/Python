@@ -4,6 +4,7 @@ Aqui estão alguns programas que fiz para praticar Python:
 
 -AnáliseDadosBrasileirão2021.ipynb 
   - É ligado ao meu TCC na USP em que eu analisei o efeito da idade relativa no Brasileirão 2021
+  https://docs.google.com/document/d/1VFPv_1zxiCxR4eT1w6RVH_gv5v-BJSqj/edit?usp=sharing&ouid=118312287722297644230&rtpof=true&sd=true
   
 -AutomaçãoMovimentoAcademia.ipynb 
   - Programa que consulta se a academiia está cheia ou não
